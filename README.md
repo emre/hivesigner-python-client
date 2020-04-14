@@ -9,4 +9,4 @@ $ (sudo) pip install hivesigner
 
 #### Documentation
 
-https://hivesigner.readthedocs.io/en/latest/
+https://hivesigner-python-client.readthedocs.io/en/latest/
