@@ -73,7 +73,7 @@ class CommentOptions:
                 "permlink": self.permlink or "",
                 "allow_curation_rewards": self.allow_curation_rewards,
                 "max_accepted_payout": self.max_accepted_payout,
-                "percent_hive_dollars": self.percent_hive_dollars,
+                "percent_hbd": self.percent_hive_dollars,
                 "allow_votes": self.allow_votes,
                 "extensions": self.extensions,
             }
