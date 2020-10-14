@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='hivesigner',
-    version='0.1.0',
+    version='0.1.2',
     packages=['hivesigner'],
     url='https://github.com/emre/hivesigner',
     license='MIT',
